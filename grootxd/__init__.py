@@ -41,5 +41,5 @@ async def _(bot, msg):
 
 @bot.on_message(filters.command("gxd") & filters.private)
 async def hello(bot, message):
-    await message.reply("ᴡᴏʀᴋɪɴɢ ʀᴀ ᴘᴜᴋᴀ 😊🤨")
+    await message.reply("ɪᴀᴍ ᴡᴏʀᴋɪɴɢ ʀᴀ ᴘᴜᴋᴀ 😊🤨")
 
